@@ -1,4 +1,5 @@
 # swift-samplecode
+[![Coverage Status](https://coveralls.io/repos/github/OrigamiStudiosLLC/swift-samplecode/badge.svg?branch=master)](https://coveralls.io/github/OrigamiStudiosLLC/swift-samplecode?branch=master)
 Boilerplate Accounts Readme
 
 Requirements
